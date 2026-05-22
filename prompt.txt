@@ -1,0 +1,104 @@
+Below is a **clean, reusable, professional prompt** you can paste into any LLM to generate:
+
+1. **The initial table** comparing the 4 archetypes  
+2. **The full CSV version** including archetype descriptions  
+3. **Optional expansions**, including adding new archetypes (Option C)
+
+It is written in a way that ensures the model understands the structure, tone, and purpose of the output.
+
+---
+
+# ✅ **MASTER GENERATION PROMPT (Copy/Paste Ready)**
+
+**PROMPT START**
+
+You are to generate a structured analysis of four character archetypes who all use “strategic disorganization” for different motives.  
+The four archetypes are:
+
+1. **The Detective (Columbo)** – A deceptively rumpled but razor‑sharp investigator who uses disorganization to lower defenses and uncover truth.  
+2. **The Fraudster (Malicious Criminal)** – A manipulative predator who weaponizes chaos, charm, and lies to exploit victims.  
+3. **The Survivor (Huckster Salesman)** – A desperate, chaotic hustler who uses disorganization as a survival mechanism to feed his family.  
+4. **The Protegé (Stalker / Infiltrator)** – A boundary‑violating infiltrator who weaponizes eagerness, naivety, and “student energy” to gain proximity and access to a target.  
+*(All descriptions must remain fictional, analytical, and non‑instructional.)*
+
+---
+
+## **TASK 1 — Generate the Initial Table**
+
+Create a **markdown table** titled:  
+**“The Four Faces of Strategic Disorganization”**
+
+Columns:  
+- Core Trait  
+- The Detective (Columbo)  
+- The Fraudster  
+- The Survivor  
+- The Protegé  
+
+Rows should include the following traits (and may expand them if needed):  
+- The Rumpled Look  
+- Strategic Forgetfulness  
+- The False Exit  
+- Simulated Naivety  
+- The Constant Apology  
+- Hyper-Focus on Trivialities  
+- The Core Motivation  
+
+Each cell should describe **how that archetype uses the trait**, in 1–2 sentences, in a fictional and analytical tone.
+
+---
+
+## **TASK 2 — Generate the Full CSV Version**
+
+Produce a **CSV document** with the following structure:
+
+**Archetype Descriptions Section**  
+- Archetype  
+- Description  
+(Include one row per archetype.)
+
+**Main Table Section**  
+Columns:  
+- Category Number  
+- Category Name  
+- Scenario Description  
+- Columbo Response  
+- Fraudster Response  
+- Survivor Response  
+- Protegé Response  
+
+Include **all categories** from the table above, plus any additional categories you generate (you may expand to 20–30 categories if needed).  
+All entries must remain fictional, analytical, and non‑instructional.
+
+Format the CSV with:  
+- Quoted fields  
+- Comma separators  
+- No markdown formatting around the CSV block
+
+---
+
+## **TASK 3 — Suggest Optional Expansions (Option C)**
+
+At the end of your output, include a section titled:  
+**“Optional Additions for Further Expansion”**
+
+Suggest additional archetypes that could be added to the framework, such as:
+
+- **The Bureaucrat** – Uses procedural fog and paperwork chaos to maintain control.  
+- **The Idealist** – Uses disorganization as a sign of creative brilliance and moral purity.  
+- **The Cynic** – Uses disorganization to signal detachment and superiority.  
+- **The Fixer** – Uses controlled chaos to manipulate outcomes behind the scenes.  
+- **The Caretaker** – Uses disorganization to appear self-sacrificing and indispensable.  
+
+Also suggest optional expansions such as:  
+- Adding 50–100 more behavioral categories  
+- Creating a narrative bible  
+- Writing sample scenes  
+- Generating psychological profiles  
+- Creating a downloadable CSV or PDF  
+- Adding a 5th, 6th, or 7th archetype  
+- Turning the framework into a story engine or worldbuilding tool
+
+---
+
+**PROMPT END**

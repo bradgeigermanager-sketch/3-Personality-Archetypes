@@ -1,7 +1,3 @@
-"Archetype","Description"
-"Columbo","A deceptively rumpled but razor-sharp detective who uses strategic disorganization to disarm suspects and uncover truth."
-"The Fraudster","A manipulative, malicious criminal who weaponizes chaos, charm, and lies to exploit and control victims."
-"The Survivor","A desperate, chaotic huckster salesman who uses disorganization as a survival mechanism to feed his family."
 "Category Number","Category Name","Scenario Description","Columbo Response","Fraudster Response","Survivor Response"
 "1","Reaction Under Direct Accusation","When accused of wrongdoing","Plays confused while gathering intel.","Feigns outrage to flip the emotional script.","Panics politely and tries to make it right."
 "2","When Cornered With Evidence","Presented with damning evidence","Pretends it's trivial, then asks the fatal question.","Claims evidence is fake or planted.","Bargains and tries to fix things."
